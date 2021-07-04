@@ -15,6 +15,7 @@ def main():
             "color": "green",
             "price": 100,
         })
+        pipe.execute()
 
 
 if __name__ == "__main__":
